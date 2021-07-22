@@ -18,4 +18,5 @@ printf("not palindrome");
 return 0;
 }  
 }
-hjfjfbufhof   
+hjfjfbufhof 
+gfhgh  
