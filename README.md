@@ -9,7 +9,7 @@ while(n>0)
 {    
 r=n%10;    
 sum=(sum*10)+r;    
-n=n/10;    
+n=n/0;    
 }    
 if(temp==sum)    
 printf("palindrome number ");    
